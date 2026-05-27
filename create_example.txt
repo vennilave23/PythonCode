@@ -1,0 +1,2 @@
+This file is created using the create_file function.
+This content is appended using the append_to_file function.
